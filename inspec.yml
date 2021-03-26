@@ -8,3 +8,5 @@ summary: Test-suite for best-practice apache hardening
 version: 2.1.0
 supports:
   - os-family: unix
+    aws_key: scacsacdcasdwdqwdqwd
+    aws_secret: sdadasdwdqdeqwdqw
